@@ -85,7 +85,7 @@ html, body {height: 100%;}
 	35%{background-image: url('../img/b3.jpg');}
 	50%{background-image: url('../img/b4.jpg');}
 	75%{background-image: url('../img/b5.jpg');}
-	100%{background-image: url('../img/b1.jpg');}
+	90%{background-image: url('../img/b1.jpg');}
 }
 
 /* SOBRE */
@@ -179,11 +179,11 @@ nav i.material-iconsm ,nav a.button-collapse i {
 .tabs .tab a:hover, .tabs .tab a.active{color:#fabd4d;}
 .tabs .indicator {background-color: #fabd4d;}
 
-.aloma{
+.edificioAlex{
 	background-color: transparent;
 	color: #fff;
 }
-.aloma p{
+.edificioAlex p{
 	font-size: 1.5rem;
 }
 .card-content{
