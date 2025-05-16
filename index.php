@@ -67,7 +67,7 @@
                     <ul class="right light hide-on-med-and-down">
                         <li><a href="#home">Home</a></li>
                         <li><a href="#sobre">Sobre Nós</a></li>
-                        <li><a href="#ec-modal" class="modal-trigger">Expansão de Consciência</a></li>
+                        <li><a href="#ec-modal" class="modal-trigger">Exp. Consciência</a></li>
                         <li><a href="#servicos">Serviços</a></li>
                         <li><a href="#localizacao">Localização</a></li>
                         <li><a href="#contato">Contato</a></li>
