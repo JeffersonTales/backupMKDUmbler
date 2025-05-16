@@ -53,7 +53,7 @@
         <ul class="sidenav" id="mobile-demo">
             <li><a class="sidenav-close" href="#home">Home</a></li>
             <li><a class="sidenav-close" href="#sobre">Sobre Nós</a></li>
-            <li><a href="#ec-modal" class="modal-trigger">Expansão de Consciência</a></li>
+            <li><a href="#ec-modal" class="modal-trigger">Exp. Consciência</a></li>
             <li><a class="sidenav-close" href="#servicos">Serviços</a></li>
             <li><a class="sidenav-close" href="#localizacao">Localização</a></li>
             <li><a class="sidenav-close" href="#contato">Contato</a></li>
